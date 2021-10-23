@@ -22,3 +22,8 @@ python main.py
 # необходимо из почты активировать ссылку в selenium браузере, после запуска main
 
 ```
+
+### other tools
+
+https://github.com/gurnec/btcrecover
+https://www.youtube.com/watch?v=eS0VUl3w69Y
